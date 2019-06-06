@@ -11,6 +11,7 @@ import java.util.Date;
 public class Command {
     public static final int ADDUSER = 1;
     public static final int ADDROBOT = 2;
+    public static final int ROBOTREADU = 3;
     public static final int GETROBOT = 10;
     public static final int ROBOTSTATUS = 11;
     public static final int EXECUTESIMPLE = 100;
